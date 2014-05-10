@@ -1,0 +1,16 @@
+{
+  "name": "iChat",
+  "version": "0.0.0",
+  "authors": [
+    "Marco Au <marco.au.321@gmail.com>"
+  ],
+  "description": "NodeJS powered real-time chat web app",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
